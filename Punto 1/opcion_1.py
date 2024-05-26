@@ -6,6 +6,6 @@ def calcular_mcd(a, b):
 
 # Números proporcionados directamente en el codigo 
 numero1 = 45
-numero2 = 8
+numero2 = 98
 mcd = calcular_mcd(numero1, numero2)
 print(f"El MCD de {numero1} y {numero2} es {mcd}")
