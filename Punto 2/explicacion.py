@@ -17,3 +17,4 @@ Y la formula que decidi implementar yo es la siguiente:
     #Los números se proporcionan directamente en el código (numero1 = 15 y numero2 = 20). Y el MCM se calcula y se imprime directamente.
 
 # opcion_2
+    #El programa que cree solicita al usuario que ingrese los dos números.Y llama a la función calcular_mcm con los números proporcionados por el usuario y muestra el resultado.
